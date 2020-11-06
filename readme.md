@@ -46,6 +46,8 @@ This is a complete web development resources you need to build your next project
 - [Developer Blog Sites](#developer-blog-sites)
 - [YouTube Channels](#youtube-channels)
 
+## Resources
+
 ### 💻 DEVELOPER ROADMAPS
 
 - [Frontend](https://roadmap.sh/frontend) - Frontend Development Roadmap.
