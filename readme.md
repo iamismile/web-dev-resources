@@ -13,7 +13,7 @@
 
 ---
 
-This is a complete web development resources you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.
+This is a complete web development resource you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.
 
 ---
 
