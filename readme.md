@@ -44,7 +44,7 @@ This is a complete web development resources you need to build your next project
 - [Resume](#resume)
 - [Others](#others)
 - [Developer Blog Sites](#developer-blog-sites)
-- [YouTube Channels](#youtube-channels)
+- [YouTube Channels](#-youtube-channels)
 
 ## Resources
 
