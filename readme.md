@@ -70,8 +70,8 @@ This is a complete web development resource you need to build your next project.
 
 ### 🌐 HOW THE WEB WORKS?
 
-- [How Internet Works Video](https://www.youtube.com/watch?v=x3c1ih2NJEg) - How does the Internet Works?
-- [How Internet Works Brief Videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) - A brief explanations on, how does the Internet works?
+- [How the Internet Works Video](https://www.youtube.com/watch?v=x3c1ih2NJEg) - How does the Internet Works?
+- [How the Internet Works Brief Videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) - A brief explanations on, how does the Internet works?
 - [DNS](https://howdns.works) - How DNS works?
 - [HTTPS](https://howhttps.works) - How HTTPS works?
 
@@ -98,20 +98,20 @@ This is a complete web development resource you need to build your next project.
 
 ### 🖋 FONTS AND TYPOGRAPHY
 
-- [Google Fonts](https://fonts.google.com) - The #1 resource for free and easy-to-use webfonts
-- [Fonts Arena](https://fontsarena.com) - Free fonts, free alternatives to premium fonts, done-for-you-research articles
-- [Fontjoy](https://fontjoy.com) - Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing
+- [Google Fonts](https://fonts.google.com) - The #1 resource for free and easy-to-use webfonts.
+- [Fonts Arena](https://fontsarena.com) - Free fonts, free alternatives to premium fonts, done-for-you-research articles.
+- [Fontjoy](https://fontjoy.com) - Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
 - [FontPair](https://fontpair.co) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 
 ### 🌈 COLORS AND TOOLS
 
-- [Coolors](https://coolors.co) - Generate or browse beautiful color combinations for your designs
-- [0to255](https://www.0to255.com) - A color tool that makes it easy to lighten and darken colors
+- [Coolors](https://coolors.co) - Generate or browse beautiful color combinations for your designs.
+- [0to255](https://www.0to255.com) - A color tool that makes it easy to lighten and darken colors.
 - [color x color](https://colorcolor.in) - A tool to create accessible color systems for UIs
-- [Colors and Fonts](https://www.colorsandfonts.com) - Find colors and typography combinations ready to copy paste in one click
-- [ColorSpace](https://mycolor.space) - Generate nice Color Palettes
-- [CSS Gradient](https://cssgradient.io) - Free css gradient generator tool
-- [uiGradients](uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers
+- [Colors and Fonts](https://www.colorsandfonts.com) - Find colors and typography combinations ready to copy paste in one click.
+- [ColorSpace](https://mycolor.space) - Generate nice Color Palettes.
+- [CSS Gradient](https://cssgradient.io) - Free css gradient generator tool.
+- [uiGradients](uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers.
 
 ### 📷 IMAGE RESOURCES
 
@@ -133,25 +133,25 @@ This is a complete web development resource you need to build your next project.
 
 ### 💧 ICONS
 
-- [Ionicons](https://ionicons.com) - Open-Sourced and MIT licensed icon pack
-- [Font Awesome](https://fontawesome.com) - Vector icons and social logos
+- [Ionicons](https://ionicons.com) - Open-Sourced and MIT licensed icon pack.
+- [Font Awesome](https://fontawesome.com) - Vector icons and social logos.
 - [Material Icons](https://material.io/resources/icons/?style=baseline) - Material icons are delightful, beautifully crafted symbols for common actions and items. Download on desktop to use them in your digital products for Android, iOS, and web.
 - [icons8](https://icons8.com/icons) - Download free icons in PNG and SVG.
-- [flaticon](https://www.flaticon.com) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT
+- [flaticon](https://www.flaticon.com) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
 - [Tabler Icons](https://tablericons.com) - Fully customizable free SVG icons.
 - [icofont](https://icofont.com/icons) - 2100+ free icons to spice up your creative designs.
 - [Simple Icons](https://simpleicons.org) - 1463 Free SVG icons for popular brands.
 
 ### ⚙ GENERATORS
 
-- [Lorem Ipsum](https://loremipsum.io) - Lorem Ipsum generator
+- [Lorem Ipsum](https://loremipsum.io) - Lorem Ipsum generator.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Favicon generator
-- [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker
+- [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
 - [Meta Tags](https://metatags.io) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
-- [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker
-- [Regex101](https://regex101.com) - Online regex tester
+- [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
+- [Regex101](https://regex101.com) - Online regex tester.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
-- [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code
+- [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
 
 ### 👓 ACCESSIBILITY
 
