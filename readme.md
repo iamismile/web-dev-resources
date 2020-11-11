@@ -241,6 +241,7 @@ This is a complete web development resource you need to build your next project.
 
 - [Postman](https://www.postman.com) - Postman makes API development easy. Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 - [Insomnia](https://insomnia.rest) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST.
+- [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
 
