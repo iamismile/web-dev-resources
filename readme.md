@@ -20,7 +20,7 @@ This is a complete web development resource you need to build your next project.
 ## Contents
 
 - [Developer Roadmaps](#-developer-roadmaps)
-- [Documentations](#-documentations)
+- [Documentations and Cheatsheets](#-documentations-and-cheatsheets)
 - [Design Tools](#-design-tools)
 - [How the WEB works?](#-how-the-web-works)
 - [HTML and CSS](#-html-and-css)
@@ -57,10 +57,11 @@ This is a complete web development resource you need to build your next project.
 - [Andriod](https://roadmap.sh/android) - Android Development Roadmap.
 - [DevOps](https://roadmap.sh/devops) - DevOps Roadmap.
 
-### 📚 DOCUMENTATIONS
+### 📚 DOCUMENTATIONS AND CHEATSHEETS
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [DevDocs](https://devdocs.io)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
+- [DevDocs](https://devdocs.io) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app.
+- [DEVHINTS](https://devhints.io) - A modest collection of cheatsheets.
 
 ### 🎭 DESIGN TOOLS
 
@@ -248,6 +249,7 @@ This is a complete web development resource you need to build your next project.
 - [freeCodeCamp](https://www.w3schools.com) - Learn to code at home. Build projects. Earn certifications.
 - [w3schools](https://www.w3schools.com) - The world's largest Web Developer site. Tutorials references, examples, exercies, certificates.
 - [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. As leaders in online education and learning to code.
+- [Real Python](https://realpython.com) - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
 - [Study Tonight](https://www.studytonight.com) - Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests, Video tutorials.
 - [Programiz](https://www.programiz.com) - Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.
 - [JavaScript Info](https://javascript.info) - The Modern JavaScript Tutorial.
