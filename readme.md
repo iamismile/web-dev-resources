@@ -24,6 +24,7 @@ This is a complete web development resource you need to build your next project.
 - [Design Tools](#-design-tools)
 - [How the WEB works?](#-how-the-web-works)
 - [HTML and CSS](#-html-and-css)
+- [Front End Challenges or Skills](#-front-end-challenges-or-skills)
 - [Fonts and Typography](#-fonts-and-typography)
 - [Colors and Tools](#-colors-and-tools)
 - [Image Resources](#-image-resources)
@@ -95,6 +96,14 @@ This is a complete web development resource you need to build your next project.
 - [Autoprefixer](https://autoprefixer.github.io) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 - [Placeholder](https://placeholder.com) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
+
+## 🖥 FRONT END CHALLENGES OR SKILLS
+
+- [CodePen](https://codepen.io) - Build, share, and learn JavaScript, CSS, and HTML with our online code editor
+- [Frontend Mentor](https://www.frontendmentor.io) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
+- [Good Code](https://moeminm.github.io/goodcode/) - Browse through dozens of front end coding challenges, complete with Adobe XD files and styleguides.
+- [codier](https://codier.io) - Explore and attempt front-end coding challenges.
+- [CSSBattle](https://cssbattle.dev) - CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
 
 ### 🖋 FONTS AND TYPOGRAPHY
 
