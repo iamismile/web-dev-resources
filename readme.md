@@ -261,6 +261,7 @@ This is a complete web development resource you need to build your next project.
 - [Play With Docker](https://labs.play-with-docker.com) - A simple, interactive and fun playground to learn Docker.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
+- [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
 
 ### 📔 DEVELOPER BLOG SITES
 
