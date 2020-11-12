@@ -62,6 +62,8 @@ This is a complete web development resource you need to build your next project.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 - [DevDocs](https://devdocs.io) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app.
 - [DEVHINTS](https://devhints.io) - A modest collection of cheatsheets.
+- [FLEX - Malven](https://flexbox.malven.co) - A visual cheatsheet for CSS flex layout.
+- [GRID - Malven](https://grid.malven.co) - A visual cheatsheet for CSS grid layout.
 
 ### 🎭 DESIGN TOOLS
 
@@ -86,8 +88,9 @@ This is a complete web development resource you need to build your next project.
 - [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS reference by MDN.
 - [CSS Reference](https://cssreference.io) - A free visual guide to CSS.
 - [Flexbox Froggy](https://flexboxfroggy.com) - A game that helps you to learn CSS Flex.
-- [CSS-TRICKS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
+- [CSS TRICKS - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
 - [Grid Garden](https://cssgridgarden.com) - A game for learning CSS Grid.
+- [CSS TRICKS - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.
 - [Learn CSS Grid](https://learncssgrid.com) - A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.
 - [Can I Use](https://caniuse.com) - Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/) - CSS Animations.
@@ -162,6 +165,7 @@ This is a complete web development resource you need to build your next project.
 - [Regex101](https://regex101.com) - Online regex tester.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
+- [CSS Grid Generator](https://grid.layoutit.com) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
 
 ### 👓 ACCESSIBILITY
 
