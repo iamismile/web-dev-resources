@@ -120,7 +120,7 @@ This is a complete web development resource you need to build your next project.
 
 - [Coolors](https://coolors.co) - Generate or browse beautiful color combinations for your designs.
 - [0to255](https://www.0to255.com) - A color tool that makes it easy to lighten and darken colors.
-- [ColorBox] (https://colorbox.io) - Create amazing color sets superfast.
+- [ColorBox](https://colorbox.io) - Create amazing color sets superfast.
 - [color x color](https://colorcolor.in) - A tool to create accessible color systems for UIs
 - [Colors and Fonts](https://www.colorsandfonts.com) - Find colors and typography combinations ready to copy paste in one click.
 - [ColorSpace](https://mycolor.space) - Generate nice Color Palettes.
