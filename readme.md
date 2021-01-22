@@ -211,6 +211,7 @@ This is a complete web development resource you need to build your next project.
 ### ⚡ NODEJS
 
 - [Node.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - Node.js Crash Course Tutorial by Net Ninja.
+- [Mixu's Node book](http://book.mixu.net/node/index.html) - A book about using Node.js.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Huge list of best practices for building node apps. Important for big projects.
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices a0nd guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node)
