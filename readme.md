@@ -218,7 +218,9 @@ This is a complete web development resource you need to build your next project.
 - [Express.js Security Tips](https://www.freecodecamp.org/news/express-js-security-tips/) - How You Can Save and Secure Your App.
 
 ### ⚡ PYTHON
-
+- [Learn Python Programming](https://pythonbasics.org) - This site contains materials and exercises for the Python 3 programming language.
+- [PY4E](https://www.py4e.com) - Python for Everybody.
+- [Dive Into Python 3](https://diveintopython3.net/index.html) - Dive Into Python 3 covers Python 3 and its differences from Python 2. Compared to Dive Into Python, it’s about 20% revised and 80% new material. The book is now complete.
 - [Codecademy](https://www.codecademy.com/learn/learn-python) - Free course to learn Python interactively.
 - [Programiz](https://www.programiz.com/python-programming) - Learn Python Programming.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
