@@ -165,6 +165,7 @@ This is a complete web development resource you need to build your next project.
 - [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
 - [Meta Tags](https://metatags.io) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
+- [i Hate Regex](https://ihateregex.io) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
 - [Regex101](https://regex101.com) - Online regex tester.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
