@@ -102,6 +102,7 @@ This is a complete web development resource you need to build your next project.
 - [Autoprefixer](https://autoprefixer.github.io) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 - [Placeholder](https://placeholder.com) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
+- [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
