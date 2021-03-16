@@ -87,8 +87,10 @@ This is a complete web development resource you need to build your next project.
 - [HTML Entity](https://css-tricks.com/snippets/html/glyphs/) - HTML Entity Reference by CSS-Tricks.
 - [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS reference by MDN.
 - [CSS Reference](https://cssreference.io) - A free visual guide to CSS.
+- [CSS Layout](https://csslayout.io) - A collection of popular layouts and patterns made with CSS.
 - [Flexbox Froggy](https://flexboxfroggy.com) - A game that helps you to learn CSS Flex.
 - [CSS TRICKS - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
+- [Grid by Example](https://gridbyexample.com) - Everything you need to learn CSS Grid Layout.
 - [Grid Garden](https://cssgridgarden.com) - A game for learning CSS Grid.
 - [CSS TRICKS - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.
 - [Learn CSS Grid](https://learncssgrid.com) - A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.
