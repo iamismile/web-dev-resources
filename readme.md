@@ -103,7 +103,6 @@ This is a complete web development resource you need to build your next project.
 - [Autoprefixer](https://autoprefixer.github.io) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 - [Placeholder](https://placeholder.com) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
-- [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
@@ -172,6 +171,8 @@ This is a complete web development resource you need to build your next project.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
 - [CSS Grid Generator](https://grid.layoutit.com) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
+- [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
+- [CSS Shadow Generator](https://brumm.af/shadows) - Make a smooth shadow.
 
 ### 👓 ACCESSIBILITY
 
