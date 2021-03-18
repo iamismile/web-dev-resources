@@ -86,9 +86,11 @@ This is a complete web development resource you need to build your next project.
 - [Interneting Is Hard](https://www.internetingishard.com) - Friendly web development tutorials for complete beginners.
 - [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - HTML elements reference by MDN.
 - [HTML Entity](https://css-tricks.com/snippets/html/glyphs/) - HTML Entity Reference by CSS-Tricks.
+- [HTML Shark](https://html-shark.com) - Smart moves and dirty tricks for coding websites, effects and elements in HTML.
 - [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS reference by MDN.
 - [CSS Reference](https://cssreference.io) - A free visual guide to CSS.
 - [CSS Layout](https://csslayout.io) - A collection of popular layouts and patterns made with CSS.
+- [Modern CSS Solutions](https://moderncss.dev) - A series examining modern CSS solutions to problems.
 - [Flexbox Froggy](https://flexboxfroggy.com) - A game that helps you to learn CSS Flex.
 - [CSS TRICKS - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
 - [Grid by Example](https://gridbyexample.com) - Everything you need to learn CSS Grid Layout.
