@@ -156,6 +156,7 @@ This is a complete web development resource you need to build your next project.
 - [Ionicons](https://ionicons.com) - Open-Sourced and MIT licensed icon pack.
 - [Font Awesome](https://fontawesome.com) - Vector icons and social logos.
 - [Material Icons](https://material.io/resources/icons/?style=baseline) - Material icons are delightful, beautifully crafted symbols for common actions and items. Download on desktop to use them in your digital products for Android, iOS, and web.
+- [Icones](https://icones.js.org) - Icons collection.
 - [icons8](https://icons8.com/icons) - Download free icons in PNG and SVG.
 - [flaticon](https://www.flaticon.com) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
 - [Tabler Icons](https://tablericons.com) - Fully customizable free SVG icons.
