@@ -120,6 +120,7 @@ This is a complete web development resource you need to build your next project.
 - [Fonts Arena](https://fontsarena.com) - Free fonts, free alternatives to premium fonts, done-for-you-research articles.
 - [Fontjoy](https://fontjoy.com) - Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
 - [FontPair](https://fontpair.co) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+- [Font Playground](https://play.typedetail.com) - Play with variable fonts.
 
 ### 🌈 COLORS AND TOOLS
 
