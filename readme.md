@@ -180,6 +180,7 @@ This is a complete web development resource you need to build your next project.
 - [CSS Shadow Generator](https://brumm.af/shadows) - Make a smooth shadow.
 - [Haikei](https://haikei.app) - Generate unique SVG design assets.
 - [transform](https://transform.tools) - Transform | A polyglot web converter.
+- [Perflink | JS Benchmarks](https://perf.link) - JavaScript performance benchmarks you can share via URL.
 
 ### 👓 ACCESSIBILITY
 
