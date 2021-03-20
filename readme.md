@@ -176,6 +176,7 @@ This is a complete web development resource you need to build your next project.
 - [CSS Grid Generator](https://grid.layoutit.com) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
 - [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
 - [CSS Shadow Generator](https://brumm.af/shadows) - Make a smooth shadow.
+- [Haikei](https://haikei.app) - Generate unique SVG design assets.
 
 ### 👓 ACCESSIBILITY
 
