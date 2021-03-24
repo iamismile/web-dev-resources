@@ -64,6 +64,15 @@ This is a complete web development resource you need to build your next project.
 - [DEVHINTS](https://devhints.io) - A modest collection of cheatsheets.
 - [FLEX - Malven](https://flexbox.malven.co) - A visual cheatsheet for CSS flex layout.
 - [GRID - Malven](https://grid.malven.co) - A visual cheatsheet for CSS grid layout.
+- [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/) - Your ultimate CSS grid visual guide.
+- [OverAPI](https://overapi.com) - Collection Of Cheat Sheets.
+- [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
+- [GitSheet](https://gitsheet.wtf) - A dead simple git cheatsheet.
+- [HTML5 Doctor](http://html5doctor.com/element-index/) - This is a quick reference of elements that are new or have been redefined in HTML5.
+- [HTML5 Canvas Cheat Sheet ](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html) - HTML5 Canvas Cheat Sheet.
+- [Cheatography](https://cheatography.com/programming/) - Programming Cheat Sheets.
+- [CSS 3, Media Queries Cheat Sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/) - CSS 3, Media Queries Cheat Sheet.
+- [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 
 ### 🎭 DESIGN TOOLS
 
