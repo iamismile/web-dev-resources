@@ -300,6 +300,7 @@ This is a complete web development resource you need to build your next project.
 ### 📦 OTHERS
 
 - [mailsac](https://mailsac.com) - Disposable testing email inbox service.
+- [Ethereal Email](https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer users (but not limited to).
 - [HTTP Status Codes](https://httpstatuses.com) - HTTP Status Code directory, with definitions, details and helpful code references.
 - [Play With Docker](https://labs.play-with-docker.com) - A simple, interactive and fun playground to learn Docker.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
