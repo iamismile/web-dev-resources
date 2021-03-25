@@ -130,6 +130,7 @@ This is a complete web development resource you need to build your next project.
 - [Fontjoy](https://fontjoy.com) - Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
 - [FontPair](https://fontpair.co) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 - [Font Playground](https://play.typedetail.com) - Play with variable fonts.
+- [Font Anything](https://app.typeanything.io) - Type Anything is a free and awesome typography tool to create and test font combinations for your projects.
 
 ### 🌈 COLORS AND TOOLS
 
