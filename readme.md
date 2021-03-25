@@ -142,6 +142,7 @@ This is a complete web development resource you need to build your next project.
 - [ColorSpace](https://mycolor.space) - Generate nice Color Palettes.
 - [CSS Gradient](https://cssgradient.io) - Free css gradient generator tool.
 - [uiGradients](uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers.
+- [Picular](https://picular.co) - The color of anything.
 
 ### 📷 IMAGE RESOURCES
 
