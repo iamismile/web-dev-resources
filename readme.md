@@ -176,6 +176,7 @@ This is a complete web development resource you need to build your next project.
 - [Simple Icons](https://simpleicons.org) - 1463 Free SVG icons for popular brands.
 - [Get Emoji](http://getemoji.com) - ✂️ Copy and 📋 Paste Emoji 👍.
 - [Ikonate](https://ikonate.com) - Customizable icons pack.
+- [useAnimations](https://useanimations.com) - Free animated icons.
 
 ### ⚙ GENERATORS
 
