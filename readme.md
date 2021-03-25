@@ -144,6 +144,7 @@ This is a complete web development resource you need to build your next project.
 - [uiGradients](uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers.
 - [Picular](https://picular.co) - The color of anything.
 - [Colorable](https://colorable.jxnblk.com) - Choose font colors based on your background color.
+- [Happy Hues](https://www.happyhues.co) - Curated colors in context.
 
 ### 📷 IMAGE RESOURCES
 
