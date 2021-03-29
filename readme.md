@@ -229,6 +229,7 @@ This is a complete web development resource you need to build your next project.
 - [freeCodeCamp](https://www.freecodecamp.org/learn) - Best free resource to learn JavaScript interactively.
 - [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - Free course to learn JavaScript interactively.
 - [JavaScript.info](https://javascript.info) - Modern JavaScript Tutorial.
+- [JavaScripture](https://www.javascripture.com) - JavaScripture.com is a testing ground and reference for all JavaScript APIs.
 - [Eloquent JavaScript](https://eloquentjavascript.net) - This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here.
 - [JavaScript30](https://javascript30.com) - 30 days vanilla JS coding challenge. Build 30 things in 30 days with 30 tutorials.
 - [How JavaScript works](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
