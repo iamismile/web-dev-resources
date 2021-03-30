@@ -93,6 +93,7 @@ This is a complete web development resource you need to build your next project.
 
 - [freeCodeCamp](https://www.freecodecamp.org/learn) - Free course to learn Web Development.
 - [Interneting Is Hard](https://www.internetingishard.com) - Friendly web development tutorials for complete beginners.
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com) - The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
 - [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - HTML elements reference by MDN.
 - [HTML Entity](https://css-tricks.com/snippets/html/glyphs/) - HTML Entity Reference by CSS-Tricks.
 - [HTML Shark](https://html-shark.com) - Smart moves and dirty tricks for coding websites, effects and elements in HTML.
