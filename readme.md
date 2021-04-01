@@ -239,6 +239,7 @@ This is a complete web development resource you need to build your next project.
 - [JavaScript Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [DOM Manipulation Reference](http://youmightnotneedjquery.com)
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [RegexOne](https://regexone.com) - Learn Regular Expressions with simple, interactive exercises.
 
 ### ⚡ NODEJS
 
