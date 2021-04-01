@@ -101,6 +101,7 @@ This is a complete web development resource you need to build your next project.
 - [CSS Reference](https://cssreference.io) - A free visual guide to CSS.
 - [CSS Layout](https://csslayout.io) - A collection of popular layouts and patterns made with CSS.
 - [Modern CSS Solutions](https://moderncss.dev) - A series examining modern CSS solutions to problems.
+- [CSS Diner](https://flukeout.github.io) - A fun game to help you learn and practice CSS selectors.
 - [Flexbox Froggy](https://flexboxfroggy.com) - A game that helps you to learn CSS Flex.
 - [CSS TRICKS - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
 - [Grid by Example](https://gridbyexample.com) - Everything you need to learn CSS Grid Layout.
