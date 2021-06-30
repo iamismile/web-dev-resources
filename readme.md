@@ -116,6 +116,7 @@ This is a complete web development resource you need to build your next project.
 - [Autoprefixer](https://autoprefixer.github.io) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 - [Placeholder](https://placeholder.com) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
+- [DevProjects](https://www.codementor.io/projects/html_css) - Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level. 
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
