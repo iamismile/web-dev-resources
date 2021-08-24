@@ -320,6 +320,8 @@ This is a complete web development resource you need to build your next project.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
+- [Themeselection]((https://themeselection.com) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
+HTML Themes and UI Kits to create your applications faster.
 
 ### 📔 DEVELOPER BLOG SITES
 
