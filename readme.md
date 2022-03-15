@@ -263,6 +263,7 @@ This is a complete web development resource you need to build your next project.
 - [Programiz](https://www.programiz.com/python-programming) - Learn Python Programming.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial by Miguel Grinberg.
+- [Scaler Topics](https://www.scaler.com/topics/python/) - Free Resources to learn Python by top geeks.
 
 ### ⚡ REACT
 
@@ -301,6 +302,7 @@ This is a complete web development resource you need to build your next project.
 - [JavaScript Info](https://javascript.info) - The Modern JavaScript Tutorial.
 - [Command Line Tutorial](https://dev.to/iamismile/command-line-tutorial-58km) - Basic UNIX commands tutorial.
 - [Try Git](https://try.github.io) - An interactive series of challenges to learn about and experiment with Git.
+- [Scaler Topics](https://www.scaler.com/topics/) - Understand how programming works, Learn Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
 
 ### 🧑 RESUME
 
