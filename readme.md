@@ -239,6 +239,7 @@ This is a complete web development resource you need to build your next project.
 - [How JavaScript works](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 - [JavaScript Reference By MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [JavaScript Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Learn important concepts in JavaScript such as operators, loops, functions, OOPs, and much more.
 - [DOM Manipulation Reference](http://youmightnotneedjquery.com)
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [RegexOne](https://regexone.com) - Learn Regular Expressions with simple, interactive exercises.
