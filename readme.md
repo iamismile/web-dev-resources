@@ -117,7 +117,7 @@ This is a complete web development resource you need to build your next project.
 - [Autoprefixer](https://autoprefixer.github.io) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 - [Placeholder](https://placeholder.com) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
-- [DevProjects](https://www.codementor.io/projects/html_css) - Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level. 
+- [DevProjects](https://www.codementor.io/projects/html_css) - Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
@@ -167,6 +167,7 @@ This is a complete web development resource you need to build your next project.
 - [manypixels](https://www.manypixels.co/gallery/) - Free illustrations to power up your projects. Use them in a commercial or non-commercial way for your landing pages, blog posts, email newsletters, social media graphics and more.
 - [DrawKit](https://www.drawkit.io) - Hand-drawn vector illustration and icon resources, perfect for your next project.
 - [freepik](https://www.freepik.com) - Free graphic resources.
+- [Illustrations figma](https://www.artify.co/illustrations-figma) - More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
 
 ### 💧 ICONS
 
