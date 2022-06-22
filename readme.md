@@ -168,6 +168,7 @@ This is a complete web development resource you need to build your next project.
 - [DrawKit](https://www.drawkit.io) - Hand-drawn vector illustration and icon resources, perfect for your next project.
 - [freepik](https://www.freepik.com) - Free graphic resources.
 - [Illustrations figma](https://www.artify.co/illustrations-figma) - More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
+- [Vector Illustrations](https://www.artify.co/vector-illustrations) - Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.
 
 ### 💧 ICONS
 
@@ -183,6 +184,8 @@ This is a complete web development resource you need to build your next project.
 - [Get Emoji](http://getemoji.com) - ✂️ Copy and 📋 Paste Emoji 👍.
 - [Ikonate](https://ikonate.com) - Customizable icons pack.
 - [useAnimations](https://useanimations.com) - Free animated icons.
+- [3dicons](https://www.3dicons.com/) - A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
+- [Iconshock](https://www.iconshock.com/) - The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.
 
 ### ⚙ GENERATORS
 
@@ -201,6 +204,7 @@ This is a complete web development resource you need to build your next project.
 - [Haikei](https://haikei.app) - Generate unique SVG design assets.
 - [transform](https://transform.tools) - Transform | A polyglot web converter.
 - [Perflink | JS Benchmarks](https://perf.link) - JavaScript performance benchmarks you can share via URL.
+- [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 
 ### 👓 ACCESSIBILITY
 
@@ -326,6 +330,7 @@ This is a complete web development resource you need to build your next project.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
 - [Themeselection](https://themeselection.com) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
 HTML Themes and UI Kits to create your applications faster.
+- [TshirtDesigns](https://www.tshirtdesigns.com/mockups) - Create your own t shirt and apparel mockups with this free mockup builder.
 
 ### 📔 DEVELOPER BLOG SITES
 
