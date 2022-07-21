@@ -244,6 +244,7 @@ This is a complete web development resource you need to build your next project.
 - [DOM Manipulation Reference](http://youmightnotneedjquery.com)
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [RegexOne](https://regexone.com) - Learn Regular Expressions with simple, interactive exercises.
+- [Scaler](https://www.scaler.com/topics/javascript/) - Best Free Resources to learn JavaScript by top geeks.
 
 ### ⚡ NODEJS
 
