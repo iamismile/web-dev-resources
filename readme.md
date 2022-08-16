@@ -118,6 +118,9 @@ This is a complete web development resource you need to build your next project.
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 - [Placeholder](https://placeholder.com) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
 - [DevProjects](https://www.codementor.io/projects/html_css) - Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.
+- [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/) - A Complete HTML Cheat Sheet to help you master HTML.
+- [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/) - Brush up on your CSS Skills with this comprehensive Cheat Sheet.
+- [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/) - A Complete list of HTML Interview Questions to help you ace your interview.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
@@ -232,6 +235,7 @@ This is a complete web development resource you need to build your next project.
 - [JS Bin](https://jsbin.com/)
 - [JSFiddle](https://jsfiddle.net/)
 - [goormIDE](https://ide.goorm.io)
+- [InterviewBit](https://ide.new/c)
 - [CodiLink](https://codi.link)
 
 ### ⚡ JAVASCRIPT
@@ -250,6 +254,8 @@ This is a complete web development resource you need to build your next project.
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [RegexOne](https://regexone.com) - Learn Regular Expressions with simple, interactive exercises.
 - [Scaler](https://www.scaler.com/topics/javascript/) - Best Free Resources to learn JavaScript by top geeks.
+- [JavaScript Cheat Sheet](https://www.interviewbit.com/javascript-cheat-sheet/)- A Complete JavaScript Cheat Sheet to help you master JavaScript.
+- [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/) - A Complete list of top JavaScript Interview Questions to help you ace your interview.
 
 ### ⚡ NODEJS
 
@@ -262,6 +268,7 @@ This is a complete web development resource you need to build your next project.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node)
 - [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources.
 - [Express.js Security Tips](https://www.freecodecamp.org/news/express-js-security-tips/) - How You Can Save and Secure Your App.
+- [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/) - A Complete list of top Node.js Interview Questions to help you ace your interview.
 
 ### ⚡ PYTHON
 - [Learn Python Programming](https://pythonbasics.org) - This site contains materials and exercises for the Python 3 programming language.
@@ -272,6 +279,8 @@ This is a complete web development resource you need to build your next project.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial by Miguel Grinberg.
 - [Scaler Topics](https://www.scaler.com/topics/python/) - Free Resources to learn Python by top geeks.
+- [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/) - A Complete list of top Python Interview Questions to help you ace your interview. 
+- [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)- A Comprehensive Cheat Sheet to help you master Python.
 
 ### ⚡ REACT
 
@@ -282,6 +291,7 @@ This is a complete web development resource you need to build your next project.
 - [React Beach Resort](https://www.youtube.com/watch?v=l0JbuMVXaTs) - React Beach Resort project by Coding Addict.
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [React Icons](https://react-icons.github.io/react-icons/) - Include popular icons in your React projects easily with react-icons.
+- [React Interview Questions](https://www.interviewbit.com/react-interview-questions/) - A Complete list of top React Interview Questions to help you ace your interview.
 
 ### 🎮 APIs
 
@@ -311,6 +321,7 @@ This is a complete web development resource you need to build your next project.
 - [Command Line Tutorial](https://dev.to/iamismile/command-line-tutorial-58km) - Basic UNIX commands tutorial.
 - [Try Git](https://try.github.io) - An interactive series of challenges to learn about and experiment with Git.
 - [Scaler Topics](https://www.scaler.com/topics/) - Understand how programming works, Learn Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
+- [InterviewBit](https://www.interviewbit.com/practice/) - Level up your programming skills with our comprehensive guide containing interview questions, practice problems, coding challenges and alot more.
 
 ### 🧑 RESUME
 
