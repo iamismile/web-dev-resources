@@ -282,7 +282,7 @@ This is a complete web development resource you need to build your next project.
 - [Scaler Topics](https://www.scaler.com/topics/python/) - Free Resources to learn Python by top geeks.
 - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/) - A Complete list of top Python Interview Questions to help you ace your interview. 
 - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)- A Comprehensive Cheat Sheet to help you master Python.
-
+- [Python Tutorial](https://wiingy.com/learn/python/python-tutorial/) - Python Tutorial: A Comprehensive Guide for Beginners
 ### ⚡ REACT
 
 - [React](https://reactjs.org) - Official site documentations, tutorial.
