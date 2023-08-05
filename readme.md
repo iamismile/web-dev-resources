@@ -302,6 +302,7 @@ This is a complete web development resource you need to build your next project.
 - [OpenWeather](https://openweathermap.org/guide) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts.
 - [SWAPI](https://swapi.dev) - The Star Wars API.
 - [Quotes REST API](http://quotes.rest) - They Said So has more than 1 million+ quotes in the database, the largest such database in the world. And Quotes API gives easy way to access the data.
+- [Rapid API](https://rapidapi.com/hub) - Rapid api contains is one of the largest API tool suite which contains lots of free APIs along with their documnetation, a dedeicated section called [Rapid API learn](https://rapidapi.com/learn), which contains guides and tutorials about using and creating APIs.
 
 ### 🛠 DEVELOPER TOOLS
 
@@ -333,6 +334,8 @@ This is a complete web development resource you need to build your next project.
 - [Canva](https://www.canva.com/create/resumes/) - With Canva's free resume builder, applying for your dream job is easy and fast. Choose from hundreds of free.
 - [novoresume](https://novoresume.com) - Make a perfect resume in 2020 and get your dream job using the free resume builder. Select a template. Personalize it.
 - [RX-Resume](https://rx-resume.web.app) - Easily build your resume.
+- [Overleaf](https://www.overleaf.com/) - Overleaf is a LaTeX editor which can be used to create ATS friendly resumes.
+- [Resume Worded](https://resumeworded.com/) - Resume Worded can be used to check whether your resume is ATS friendly or not.
 
 ### 📦 OTHERS
 
