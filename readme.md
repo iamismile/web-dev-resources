@@ -111,6 +111,7 @@ This is a complete web development resource you need to build your next project.
 - [Learn CSS Grid](https://learncssgrid.com) - A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.
 - [Can I Use](https://caniuse.com) - Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [CSS Effects](https://web.archive.org/web/20201108000840/https://emilkowalski.github.io/css-effects-snippets/) - CSS animations.
+- [UI Snippets](https://ui-snippets.dev/) - Even more CSS animations.
 - [Keyframes](https://keyframes.app) - Create basic or complex CSS @keyframe animations with a visual timeline editor.
 - [Animista](https://animista.net) - Play with a collection of ready to use CSS animations.
 - [BEM](https://9elements.com/bem-cheat-sheet) - BEM naming cheat sheet.
