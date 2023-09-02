@@ -110,7 +110,8 @@ This is a complete web development resource you need to build your next project.
 - [CSS TRICKS - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.
 - [Learn CSS Grid](https://learncssgrid.com) - A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.
 - [Can I Use](https://caniuse.com) - Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-- [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/) - CSS Animations.
+- [CSS Effects](https://web.archive.org/web/20201108000840/https://emilkowalski.github.io/css-effects-snippets/) - CSS animations.
+- [UI Snippets](https://ui-snippets.dev/) - Even more CSS animations.
 - [Keyframes](https://keyframes.app) - Create basic or complex CSS @keyframe animations with a visual timeline editor.
 - [Animista](https://animista.net) - Play with a collection of ready to use CSS animations.
 - [BEM](https://9elements.com/bem-cheat-sheet) - BEM naming cheat sheet.
@@ -272,6 +273,7 @@ This is a complete web development resource you need to build your next project.
 - [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/) - A Complete list of top Node.js Interview Questions to help you ace your interview.
 
 ### ⚡ PYTHON
+
 - [Learn Python Programming](https://pythonbasics.org) - This site contains materials and exercises for the Python 3 programming language.
 - [PY4E](https://www.py4e.com) - Python for Everybody.
 - [Dive Into Python 3](https://diveintopython3.net/index.html) - Dive Into Python 3 covers Python 3 and its differences from Python 2. Compared to Dive Into Python, it’s about 20% revised and 80% new material. The book is now complete.
@@ -280,9 +282,10 @@ This is a complete web development resource you need to build your next project.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial by Miguel Grinberg.
 - [Scaler Topics](https://www.scaler.com/topics/python/) - Free Resources to learn Python by top geeks.
-- [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/) - A Complete list of top Python Interview Questions to help you ace your interview. 
+- [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/) - A Complete list of top Python Interview Questions to help you ace your interview.
 - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)- A Comprehensive Cheat Sheet to help you master Python.
 - [Python Tutorial](https://wiingy.com/learn/python/python-tutorial/) - Python Tutorial: A Comprehensive Guide for Beginners
+
 ### ⚡ REACT
 
 - [React](https://reactjs.org) - Official site documentations, tutorial.
@@ -346,8 +349,7 @@ This is a complete web development resource you need to build your next project.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
-- [Themeselection](https://themeselection.com) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
-HTML Themes and UI Kits to create your applications faster.
+- [Themeselection](https://themeselection.com) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.
 - [TshirtDesigns](https://www.tshirtdesigns.com/mockups) - Create your own t shirt and apparel mockups with this free mockup builder.
 
 ### 📔 DEVELOPER BLOG SITES
