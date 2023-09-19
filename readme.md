@@ -339,6 +339,7 @@ This is a complete web development resource you need to build your next project.
 - [RX-Resume](https://rx-resume.web.app) - Easily build your resume.
 - [Overleaf](https://www.overleaf.com/) - Overleaf is a LaTeX editor which can be used to create ATS friendly resumes.
 - [Resume Worded](https://resumeworded.com/) - Resume Worded can be used to check whether your resume is ATS friendly or not.
+- [Open Resume](https://www.open-resume.com/) - Open Resume is an open source Resume builder and parser.
 
 ### 📦 OTHERS
 
