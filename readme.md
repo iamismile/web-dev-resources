@@ -154,6 +154,7 @@ This is a complete web development resource you need to build your next project.
 - [Colorable](https://colorable.jxnblk.com) - Choose font colors based on your background color.
 - [Happy Hues](https://www.happyhues.co) - Curated colors in context.
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+- [Color Picker](https://www.readytools.co/tools/color-picker/) - Get a free color picker with color names, hex, rgb and hsl codes.
 
 ### 📷 IMAGE RESOURCES
 
@@ -210,6 +211,7 @@ This is a complete web development resource you need to build your next project.
 - [transform](https://transform.tools) - Transform | A polyglot web converter.
 - [Perflink | JS Benchmarks](https://perf.link) - JavaScript performance benchmarks you can share via URL.
 - [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
+- [ReadyTools HTML and CSS Generator](https://www.readytools.co/code-hub/) - Effortlessly create HTML and CSS code with ReadyTools Code Hub. Enhance your website's appearance by copying generated buttons.
 
 ### 👓 ACCESSIBILITY
 
