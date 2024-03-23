@@ -122,6 +122,9 @@ This is a complete web development resource you need to build your next project.
 - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/) - A Complete HTML Cheat Sheet to help you master HTML.
 - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/) - Brush up on your CSS Skills with this comprehensive Cheat Sheet.
 - [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/) - A Complete list of HTML Interview Questions to help you ace your interview.
+- [ReadyTools HTML Structure Generator](https://www.readytools.co/code-hub/html-structure/) - Generate HTML Structures in seconds. Use Bootstrap or your style/javascript. 
+- [ReadyTools Components Generator](https://www.readytools.co/code-hub/components/) - Generate HTML Components easily.
+- [ReadyTools Generated Buttons](https://www.readytools.co/code-hub/buttons/) - Copy fancy buttons with one click and use it on your website.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
@@ -155,7 +158,7 @@ This is a complete web development resource you need to build your next project.
 - [Happy Hues](https://www.happyhues.co) - Curated colors in context.
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 - [Color Picker](https://www.readytools.co/tools/color-picker/) - Get a free color picker with color names, hex, rgb and hsl codes.
-
+- [Color Palettes](https://www.readytools.co/color-palette/) - Free categorized Color Palettes for your projects. Get hex and rgb codes.
 ### 📷 IMAGE RESOURCES
 
 - [Unsplash](https://unsplash.com) - Free images and photos.
