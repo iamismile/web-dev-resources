@@ -283,6 +283,7 @@ This is a complete web development resource you need to build your next project.
 - [PY4E](https://www.py4e.com) - Python for Everybody.
 - [Dive Into Python 3](https://diveintopython3.net/index.html) - Dive Into Python 3 covers Python 3 and its differences from Python 2. Compared to Dive Into Python, it’s about 20% revised and 80% new material. The book is now complete.
 - [Codecademy](https://www.codecademy.com/learn/learn-python) - Free course to learn Python interactively.
+- [Programiz PRO](https://programiz.pro/learn/master-python) - Offers a curated learning path for Python beginners that provides structured, in-depth courses with interactive quizzes, coding challenges, and real-world projects.
 - [Programiz](https://www.programiz.com/python-programming) - Learn Python Programming.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - The Flask Mega-Tutorial by Miguel Grinberg.
