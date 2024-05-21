@@ -129,7 +129,7 @@ This is a complete web development resource you need to build your next project.
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
 - [CodePen](https://codepen.io) - Build, share, and learn JavaScript, CSS, and HTML with our online code editor
-- [Frontend Mentor](https://www.frontendmentor.io) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
+- [Frontend Mentor](https://www.frontendmentor.io) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working on professional designs.
 - [Good Code](https://moeminm.github.io/goodcode/) - Browse through dozens of front end coding challenges, complete with Adobe XD files and styleguides.
 - [codier](https://codier.io) - Explore and attempt front-end coding challenges.
 - [CSSBattle](https://cssbattle.dev) - CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
@@ -291,6 +291,7 @@ This is a complete web development resource you need to build your next project.
 - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/) - A Complete list of top Python Interview Questions to help you ace your interview.
 - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)- A Comprehensive Cheat Sheet to help you master Python.
 - [Python Tutorial](https://wiingy.com/learn/python/python-tutorial/) - Python Tutorial: A Comprehensive Guide for Beginners
+- [Python Developer Skills](https://www.scaler.com/blog/python-developer-skills/) - Boost your tech career with 20+ Python developer skills you need in 2024.
 
 ### ⚡ REACT
 
