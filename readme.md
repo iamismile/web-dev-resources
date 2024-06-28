@@ -335,6 +335,7 @@ This is a complete web development resource you need to build your next project.
 - [Scaler Topics](https://www.scaler.com/topics/) - Understand how programming works, Learn Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
 - [InterviewBit](https://www.interviewbit.com/practice/) - Level up your programming skills with our comprehensive guide containing interview questions, practice problems, coding challenges and alot more.
 - [Scaler Blogs](https://www.scaler.com/blog/) - Navigate the tech career with comprehensive roadmap articles, guiding the tech aspirants from the beginner to expert level in the ever-evolving tech industry.
+- [PerfectBugReport.io](https://www.perfectbugreport.io/) - A simple checklist of the essential items to include in bug reports.
 
 ### 🧑 RESUME
 
