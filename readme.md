@@ -125,6 +125,7 @@ This is a complete web development resource you need to build your next project.
 - [ReadyTools HTML Structure Generator](https://www.readytools.co/code-hub/html-structure/) - Generate HTML Structures in seconds. Use Bootstrap or your style/javascript. 
 - [ReadyTools Components Generator](https://www.readytools.co/code-hub/components/) - Generate HTML Components easily.
 - [ReadyTools Generated Buttons](https://www.readytools.co/code-hub/buttons/) - Copy fancy buttons with one click and use it on your website.
+- [ReadyTools HTML Minifier](https://www.readytools.co/code-hub/html-minifier/) - Compress your HTML files for faster loading times and better performance.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
@@ -159,6 +160,8 @@ This is a complete web development resource you need to build your next project.
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 - [Color Picker](https://www.readytools.co/tools/color-picker/) - Get a free color picker with color names, hex, rgb and hsl codes.
 - [Color Palettes](https://www.readytools.co/color-palette/) - Free categorized Color Palettes for your projects. Get hex and rgb codes.
+- [Color Contrast Checker](https://www.readytools.co/color/color-contrast-checker/) - Check color contrast easily to ensure your designs are accessible and visually appealing.
+- [Color Gradient Generator](https://www.readytools.co/color/color-gradient-generator/) - Create stunning color gradients effortlessly.
 ### 📷 IMAGE RESOURCES
 
 - [Unsplash](https://unsplash.com) - Free images and photos.
