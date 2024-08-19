@@ -330,6 +330,7 @@ This is a complete web development resource you need to build your next project.
 - [Real Python](https://realpython.com) - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
 - [Study Tonight](https://www.studytonight.com) - Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests, Video tutorials.
 - [Programiz](https://www.programiz.com) - Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.
+- [Bold Coder](https://boldcoder.blogspot.com) - Best place to learn Java programming with online tutorials, examples and interview questions.
 - [JavaScript Info](https://javascript.info) - The Modern JavaScript Tutorial.
 - [Command Line Tutorial](https://dev.to/iamismile/command-line-tutorial-58km) - Basic UNIX commands tutorial.
 - [Try Git](https://try.github.io) - An interactive series of challenges to learn about and experiment with Git.
