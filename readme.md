@@ -126,6 +126,7 @@ This is a complete web development resource you need to build your next project.
 - [ReadyTools Components Generator](https://www.readytools.co/code-hub/components/) - Generate HTML Components easily.
 - [ReadyTools Generated Buttons](https://www.readytools.co/code-hub/buttons/) - Copy fancy buttons with one click and use it on your website.
 - [ReadyTools HTML Minifier](https://www.readytools.co/code-hub/html-minifier/) - Compress your HTML files for faster loading times and better performance.
+- [HTMLrev](https://htmlrev.com/) - HTMLrev provides free HTML templates for websites and landing pages.
 
 ## 🖥 FRONT END CHALLENGES OR SKILLS
 
