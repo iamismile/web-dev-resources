@@ -208,6 +208,7 @@ This is a complete web development resource you need to build your next project.
 - [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
 - [i Hate Regex](https://ihateregex.io) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
 - [Regex101](https://regex101.com) - Online regex tester.
+- [Pyrexp](https://pythonium.net/regex) - Online visual regex tester.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
 - [CSS Grid Generator](https://grid.layoutit.com) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
@@ -322,6 +323,7 @@ This is a complete web development resource you need to build your next project.
 - [Postman](https://www.postman.com) - Postman makes API development easy. Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 - [Insomnia](https://insomnia.rest) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST.
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+- [JSONing](https://jsoning.com/api/) - Instantly Mock a REST API from a JSON Object for Testing and Prototyping.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
 
