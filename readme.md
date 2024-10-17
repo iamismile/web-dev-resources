@@ -82,6 +82,7 @@ This is a complete web development resource you need to build your next project.
 - [Sketch](https://www.sketch.com) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
 - [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 - [Undesign](https://undesign.learn.uno) - Collection of free design tools and resources for makers, developers and designers.
+- [FlyonUI](https://flyonui.com/) - The Easiest Components Library For Tailwind CSS.
 
 ### 🌐 HOW THE WEB WORKS?
 
