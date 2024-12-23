@@ -123,7 +123,7 @@ This is a complete web development resource you need to build your next project.
 - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/) - A Complete HTML Cheat Sheet to help you master HTML.
 - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/) - Brush up on your CSS Skills with this comprehensive Cheat Sheet.
 - [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/) - A Complete list of HTML Interview Questions to help you ace your interview.
-- [ReadyTools HTML Structure Generator](https://www.readytools.co/code-hub/html-structure/) - Generate HTML Structures in seconds. Use Bootstrap or your style/javascript. 
+- [ReadyTools HTML Structure Generator](https://www.readytools.co/code-hub/html-structure/) - Generate HTML Structures in seconds. Use Bootstrap or your style/javascript.
 - [ReadyTools Components Generator](https://www.readytools.co/code-hub/components/) - Generate HTML Components easily.
 - [ReadyTools Generated Buttons](https://www.readytools.co/code-hub/buttons/) - Copy fancy buttons with one click and use it on your website.
 - [ReadyTools HTML Minifier](https://www.readytools.co/code-hub/html-minifier/) - Compress your HTML files for faster loading times and better performance.
@@ -206,6 +206,7 @@ This is a complete web development resource you need to build your next project.
 - [Lorem Ipsum](https://loremipsum.io) - Lorem Ipsum generator.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Favicon generator
 - [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
+- [App Icon Generator](https://launchyourapp.dev/tools/app-icon-generator) - App Icon Generator.
 - [Meta Tags](https://metatags.io) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
 - [i Hate Regex](https://ihateregex.io) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
