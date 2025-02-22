@@ -54,7 +54,7 @@ This is a complete web development resource you need to build your next project.
 - [Frontend](https://roadmap.sh/frontend) - Frontend Development Roadmap.
 - [Backend](https://roadmap.sh/backend) - Backend Development Roadmap.
 - [React](https://roadmap.sh/react) - React Development Roadmap.
-- [Andriod](https://roadmap.sh/android) - Android Development Roadmap.
+- [Android](https://roadmap.sh/android) - Android Development Roadmap.
 - [DevOps](https://roadmap.sh/devops) - DevOps Roadmap.
 
 ### 📚 DOCUMENTATIONS AND CHEATSHEETS
@@ -164,6 +164,7 @@ This is a complete web development resource you need to build your next project.
 - [Color Palettes](https://www.readytools.co/color-palette/) - Free categorized Color Palettes for your projects. Get hex and rgb codes.
 - [Color Contrast Checker](https://www.readytools.co/color/color-contrast-checker/) - Check color contrast easily to ensure your designs are accessible and visually appealing.
 - [Color Gradient Generator](https://www.readytools.co/color/color-gradient-generator/) - Create stunning color gradients effortlessly.
+
 ### 📷 IMAGE RESOURCES
 
 - [Unsplash](https://unsplash.com) - Free images and photos.
