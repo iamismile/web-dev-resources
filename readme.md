@@ -78,8 +78,8 @@ This is a complete web development resource you need to build your next project.
 ### 🎭 DESIGN TOOLS
 
 - [Figma](https://www.figma.com) - Figma helps teams create, test, and ship better designs from start to finish.
-- [Adobe XD](https://www.adobe.com/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one place.
-- [Sketch](https://www.sketch.com) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
+- [Adobe XD](https://www.adobe.com/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it's all right here, all in one place.
+- [Sketch](https://www.sketch.com) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world's largest teams.
 - [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 - [Undesign](https://undesign.learn.uno) - Collection of free design tools and resources for makers, developers and designers.
 - [FlyonUI](https://flyonui.com/) - The Easiest Components Library For Tailwind CSS.
@@ -290,7 +290,7 @@ This is a complete web development resource you need to build your next project.
 
 - [Learn Python Programming](https://pythonbasics.org) - This site contains materials and exercises for the Python 3 programming language.
 - [PY4E](https://www.py4e.com) - Python for Everybody.
-- [Dive Into Python 3](https://diveintopython3.net/index.html) - Dive Into Python 3 covers Python 3 and its differences from Python 2. Compared to Dive Into Python, it’s about 20% revised and 80% new material. The book is now complete.
+- [Dive Into Python 3](https://diveintopython3.net/index.html) - Dive Into Python 3 covers Python 3 and its differences from Python 2. Compared to Dive Into Python, it's about 20% revised and 80% new material. The book is now complete.
 - [Codecademy](https://www.codecademy.com/learn/learn-python) - Free course to learn Python interactively.
 - [Programiz PRO](https://programiz.pro/learn/master-python) - Offers a curated learning path for Python beginners that provides structured, in-depth courses with interactive quizzes, coding challenges, and real-world projects.
 - [Programiz](https://www.programiz.com/python-programming) - Learn Python Programming.
@@ -325,6 +325,7 @@ This is a complete web development resource you need to build your next project.
 
 ### 🛠 DEVELOPER TOOLS
 
+- [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
 - [Postman](https://www.postman.com) - Postman makes API development easy. Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 - [Insomnia](https://insomnia.rest) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST.
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
