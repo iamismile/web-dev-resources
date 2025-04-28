@@ -83,6 +83,7 @@ This is a complete web development resource you need to build your next project.
 - [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 - [Undesign](https://undesign.learn.uno) - Collection of free design tools and resources for makers, developers and designers.
 - [FlyonUI](https://flyonui.com/) - The Easiest Components Library For Tailwind CSS.
+- [Shadcn Studio](https://shadcnstudio.com/) - Preview your theme changes across different components and layouts.
 
 ### 🌐 HOW THE WEB WORKS?
 
