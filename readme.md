@@ -371,6 +371,7 @@ This is a complete web development resource you need to build your next project.
 - [Play With Docker](https://labs.play-with-docker.com) - A simple, interactive and fun playground to learn Docker.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
+- [Free Online Developer Tools](https://free-online.dev) - A comprehensive collection of free, lightning-fast, and secure client-side tools for developers, to format JSON, beautify SQL, or decode Base64 strings.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
 - [Themeselection](https://themeselection.com) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.
 - [TshirtDesigns](https://www.tshirtdesigns.com/mockups) - Create your own t shirt and apparel mockups with this free mockup builder.
