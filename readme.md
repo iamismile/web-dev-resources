@@ -363,6 +363,7 @@ This is a complete web development resource you need to build your next project.
 - [SpicyChai LaTeX](https://latex.spicychai.com/) - Online LaTeX editor with AI-powered template population and real-time PDF preview. Great for creating ATS friendly resumes with pre-built templates.
 - [Resume Worded](https://resumeworded.com/) - Resume Worded can be used to check whether your resume is ATS friendly or not.
 - [Open Resume](https://www.open-resume.com/) - Open Resume is an open source Resume builder and parser.
+- [Resumegrade](https://resumegrade.ai) - An AI-based resume grading system that provides actionable feedback to improve your resume.
 
 ### 📦 OTHERS
 
