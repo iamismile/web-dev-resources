@@ -329,6 +329,7 @@ This is a complete web development resource you need to build your next project.
 ### 🛠 DEVELOPER TOOLS
 
 - [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
+- [All Tools Verse](https://alltoolsverse.com/) - A searchable directory of 1,000+ free browser-based tools, including 95 developer utilities for JSON, CSS, SQL, regex, code conversion, and more. No signup required.
 - [Postman](https://www.postman.com) - Postman makes API development easy. Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 - [Insomnia](https://insomnia.rest) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST.
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
