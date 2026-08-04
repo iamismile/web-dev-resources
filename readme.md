@@ -338,6 +338,7 @@ This is a complete web development resource you need to build your next project.
 - [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
+- [Nutilz .gitignore Generator](https://nutilz.com/gitignore-generator) - Free browser-based tool to generate a `.gitignore` file for your stack (language, framework, IDE) by picking from 30+ presets. No signup, nothing sent to a server.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
