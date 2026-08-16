@@ -76,6 +76,8 @@ This is a complete web development resource you need to build your next project.
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
 
+- [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
+
 ### 🎭 DESIGN TOOLS
 
 - [Figma](https://www.figma.com) - Figma helps teams create, test, and ship better designs from start to finish.
@@ -338,6 +340,7 @@ This is a complete web development resource you need to build your next project.
 - [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
+- [Nutilz .gitignore Generator](https://nutilz.com/gitignore-generator) - Free browser-based tool to generate a `.gitignore` file for your stack (language, framework, IDE) by picking from 30+ presets. No signup, nothing sent to a server.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
@@ -380,6 +383,7 @@ This is a complete web development resource you need to build your next project.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
 - [Free Online Developer Tools](https://free-online.dev) - A comprehensive collection of free, lightning-fast, and secure client-side tools for developers, to format JSON, beautify SQL, or decode Base64 strings.
 - [Nutilz Date Calculator](https://nutilz.com/date-calculator) - Free browser-based tool to find the difference between two dates or add/subtract days, weeks, months and years. No signup required.
+- [Nutilz QR Code Scanner](https://nutilz.com/qr-scanner) - Scan and decode QR codes from an uploaded image or live webcam, entirely in the browser — reads URLs, WiFi credentials, vCards and plain text. No upload, no sign-up.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
 - [Themeselection](https://themeselection.com) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.
 - [TshirtDesigns](https://www.tshirtdesigns.com/mockups) - Create your own t shirt and apparel mockups with this free mockup builder.
