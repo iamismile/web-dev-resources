@@ -337,6 +337,7 @@ This is a complete web development resource you need to build your next project.
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 - [JSONing](https://jsoning.com/api/) - Instantly Mock a REST API from a JSON Object for Testing and Prototyping.
 - [Jsonic](https://jsonic.io) - Free in-browser toolkit to format, validate, and repair JSON, convert JSON to CSV/YAML/XML, and decode JWTs. No signup, runs entirely client-side.
+- [HTTP Status Codes Reference](https://nutilz.com/http-status-codes) - Searchable reference for every HTTP status code (1xx-5xx) with plain-English explanations and usage guidance. Free, no signup required.
 - [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
