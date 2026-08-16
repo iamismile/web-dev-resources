@@ -373,6 +373,7 @@ This is a complete web development resource you need to build your next project.
 - [Overleaf](https://www.overleaf.com/) - Overleaf is a LaTeX editor which can be used to create ATS friendly resumes.
 - [SpicyChai LaTeX](https://latex.spicychai.com/) - Online LaTeX editor with AI-powered template population and real-time PDF preview. Great for creating ATS friendly resumes with pre-built templates.
 - [Resume Worded](https://resumeworded.com/) - Resume Worded can be used to check whether your resume is ATS friendly or not.
+- [CVExpert ATS Health Check](https://cvexpert.com/tools/ats-health-check) - Free, private, no-sign-up checks for common ATS readability issues. It runs in the browser and does not simulate an employer's ATS verdict.
 - [Open Resume](https://www.open-resume.com/) - Open Resume is an open source Resume builder and parser.
 - [Resumegrade](https://resumegrade.ai) - An AI-based resume grading system that provides actionable feedback to improve your resume.
 
