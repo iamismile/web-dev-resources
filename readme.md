@@ -341,6 +341,7 @@ This is a complete web development resource you need to build your next project.
 - [Jsonic](https://jsonic.io) - Free in-browser toolkit to format, validate, and repair JSON, convert JSON to CSV/YAML/XML, and decode JWTs. No signup, runs entirely client-side.
 - [HTTP Status Codes Reference](https://nutilz.com/http-status-codes) - Searchable reference for every HTTP status code (1xx-5xx) with plain-English explanations and usage guidance. Free, no signup required.
 - [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
+- [Agent QA](https://github.com/vostride/agent-qa) - Run natural-language regression tests against web applications through a CLI or MCP, retaining execution memory and adapting tests to UI changes.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
 - [Nutilz .gitignore Generator](https://nutilz.com/gitignore-generator) - Free browser-based tool to generate a `.gitignore` file for your stack (language, framework, IDE) by picking from 30+ presets. No signup, nothing sent to a server.
