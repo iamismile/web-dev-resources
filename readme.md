@@ -75,7 +75,6 @@ This is a complete web development resource you need to build your next project.
 - [CSS 3, Media Queries Cheat Sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/) - CSS 3, Media Queries Cheat Sheet.
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
-
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
 
 ### 🎭 DESIGN TOOLS
@@ -347,6 +346,7 @@ This is a complete web development resource you need to build your next project.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
 - [Nutilz .gitignore Generator](https://nutilz.com/gitignore-generator) - Free browser-based tool to generate a `.gitignore` file for your stack (language, framework, IDE) by picking from 30+ presets. No signup, nothing sent to a server.
+- [A Box of Tools](https://abox.tools/) - Free client-side file tools: format JSON, diff text, base64, hashes, image to a data URI, PNG or SVG to a multi-size `.ico`, and compress an image to an exact KB budget. Open source, no signup, nothing sent to a server.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, and a merge queue that owns risk-based review. Open source, on npm.
 
 ### 📖 ONLINE LEARNING RESOURCES
