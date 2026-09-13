@@ -278,6 +278,7 @@ This is a complete web development resource you need to build your next project.
 - [Scaler](https://www.scaler.com/topics/javascript/) - Best Free Resources to learn JavaScript by top geeks.
 - [JavaScript Cheat Sheet](https://www.interviewbit.com/javascript-cheat-sheet/)- A Complete JavaScript Cheat Sheet to help you master JavaScript.
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/) - A Complete list of top JavaScript Interview Questions to help you ace your interview.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source book covering TypeScript from fundamentals to advanced concepts.
 
 ### ⚡ NODEJS
 
