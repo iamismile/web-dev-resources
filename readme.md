@@ -75,7 +75,6 @@ This is a complete web development resource you need to build your next project.
 - [CSS 3, Media Queries Cheat Sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/) - CSS 3, Media Queries Cheat Sheet.
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
-
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
 
 ### 🎭 DESIGN TOOLS
@@ -222,6 +221,7 @@ This is a complete web development resource you need to build your next project.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
 - [CSS Grid Generator](https://grid.layoutit.com) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
+- [Responsive CSS Grid Generator](https://cssgridgenerator.net) - Draw a CSS Grid layout at each breakpoint and copy CSS with the media queries already written. Also covers subgrid, masonry and container queries.
 - [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
 - [CSS Shadow Generator](https://brumm.af/shadows) - Make a smooth shadow.
 - [Haikei](https://haikei.app) - Generate unique SVG design assets.
@@ -339,12 +339,15 @@ This is a complete web development resource you need to build your next project.
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 - [JSONing](https://jsoning.com/api/) - Instantly Mock a REST API from a JSON Object for Testing and Prototyping.
 - [Jsonic](https://jsonic.io) - Free in-browser toolkit to format, validate, and repair JSON, convert JSON to CSV/YAML/XML, and decode JWTs. No signup, runs entirely client-side.
+- [CSV SafeCheck](https://csv-safecheck.pages.dev/) - Free browser-local preflight checker for Shopify product CSV files with exact row and column findings and conservative fixes. No signup or file upload.
 - [HTTP Status Codes Reference](https://nutilz.com/http-status-codes) - Searchable reference for every HTTP status code (1xx-5xx) with plain-English explanations and usage guidance. Free, no signup required.
 - [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
+- [Agent QA](https://github.com/vostride/agent-qa) - Run natural-language regression tests against web applications through a CLI or MCP, retaining execution memory and adapting tests to UI changes.
 - [npm trends](https://www.npmtrends.com) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
 - [BUNDLEPHOBIA](https://bundlephobia.com) - Find the cost of adding a npm package to your bundle.
 - [Nutilz .gitignore Generator](https://nutilz.com/gitignore-generator) - Free browser-based tool to generate a `.gitignore` file for your stack (language, framework, IDE) by picking from 30+ presets. No signup, nothing sent to a server.
 - [A Box of Tools](https://abox.tools/) - Free client-side file tools: format JSON, diff text, base64, hashes, image to a data URI, PNG or SVG to a multi-size `.ico`, and compress an image to an exact KB budget. Open source, no signup, nothing sent to a server.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, and a merge queue that owns risk-based review. Open source, on npm.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
@@ -374,6 +377,7 @@ This is a complete web development resource you need to build your next project.
 - [Overleaf](https://www.overleaf.com/) - Overleaf is a LaTeX editor which can be used to create ATS friendly resumes.
 - [SpicyChai LaTeX](https://latex.spicychai.com/) - Online LaTeX editor with AI-powered template population and real-time PDF preview. Great for creating ATS friendly resumes with pre-built templates.
 - [Resume Worded](https://resumeworded.com/) - Resume Worded can be used to check whether your resume is ATS friendly or not.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3 checks/day with no account, 10/day with a free account) plus an open State of ATS 2026 dataset of 738 large employers (704 portal-verified).
 - [CVExpert ATS Health Check](https://cvexpert.com/tools/ats-health-check) - Free, private, no-sign-up checks for common ATS readability issues. It runs in the browser and does not simulate an employer's ATS verdict.
 - [Open Resume](https://www.open-resume.com/) - Open Resume is an open source Resume builder and parser.
 - [Resumegrade](https://resumegrade.ai) - An AI-based resume grading system that provides actionable feedback to improve your resume.
