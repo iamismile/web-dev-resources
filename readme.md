@@ -318,6 +318,7 @@ This is a complete web development resource you need to build your next project.
 - [React Beach Resort](https://www.youtube.com/watch?v=l0JbuMVXaTs) - React Beach Resort project by Coding Addict.
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [React Icons](https://react-icons.github.io/react-icons/) - Include popular icons in your React projects easily with react-icons.
+- [Bestax](https://bestax.io) - React components for the Bulma v1 CSS framework, written in TypeScript.
 - [React Interview Questions](https://www.interviewbit.com/react-interview-questions/) - A Complete list of top React Interview Questions to help you ace your interview.
 - [100+ React Redux Interview Questions and Answers (2023)](https://www.adaface.com/blog/react-interview-questions/)-A collection of React Redux Questions and answers.
 
