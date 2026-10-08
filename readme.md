@@ -393,6 +393,7 @@ This is a complete web development resource you need to build your next project.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
 - [Free Online Developer Tools](https://free-online.dev) - A comprehensive collection of free, lightning-fast, and secure client-side tools for developers, to format JSON, beautify SQL, or decode Base64 strings.
+- [Fomrix](https://fomrix.com/glb-viewer) - Free browser-based GLB preview for checking geometry, materials and textures before web delivery; local viewing needs no account.
 - [Nutilz Date Calculator](https://nutilz.com/date-calculator) - Free browser-based tool to find the difference between two dates or add/subtract days, weeks, months and years. No signup required.
 - [Nutilz QR Code Scanner](https://nutilz.com/qr-scanner) - Scan and decode QR codes from an uploaded image or live webcam, entirely in the browser — reads URLs, WiFi credentials, vCards and plain text. No upload, no sign-up.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
