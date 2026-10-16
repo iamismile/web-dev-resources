@@ -350,6 +350,7 @@ This is a complete web development resource you need to build your next project.
 - [Nutilz .gitignore Generator](https://nutilz.com/gitignore-generator) - Free browser-based tool to generate a `.gitignore` file for your stack (language, framework, IDE) by picking from 30+ presets. No signup, nothing sent to a server.
 - [A Box of Tools](https://abox.tools/) - Free client-side file tools: format JSON, diff text, base64, hashes, image to a data URI, PNG or SVG to a multi-size `.ico`, and compress an image to an exact KB budget. Open source, no signup, nothing sent to a server.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, and a merge queue that owns risk-based review. Open source, on npm.
+- [FaviconDL](https://favicondl.com/) - Download the favicons a website already publishes (ICO, PNG, SVG, Apple touch icons) at their original sizes, in bulk or through a free JSON API that needs no key. No signup.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
