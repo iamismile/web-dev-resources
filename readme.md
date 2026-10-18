@@ -172,6 +172,7 @@ This is a complete web development resource you need to build your next project.
 
 ### 📷 IMAGE RESOURCES
 
+- [PicCollages](https://piccollages.com/) - Free browser-based photo collage editor with grids, adjustable spacing and borders, text, stickers, and direct download.
 - [Unsplash](https://unsplash.com) - Free images and photos.
 - [Pexels](https://www.pexels.com) - Free stock photos.
 - [Pixabay](https://pixabay.com) - Free image or video.
@@ -330,6 +331,7 @@ This is a complete web development resource you need to build your next project.
 - [SWAPI](https://swapi.dev) - The Star Wars API.
 - [Quotes REST API](http://quotes.rest) - They Said So has more than 1 million+ quotes in the database, the largest such database in the world. And Quotes API gives easy way to access the data.
 - [Rapid API](https://rapidapi.com/hub) - Rapid api contains is one of the largest API tool suite which contains lots of free APIs along with their documnetation, a dedeicated section called [Rapid API learn](https://rapidapi.com/learn), which contains guides and tutorials about using and creating APIs.
+- [CurlShot](https://curlshot.com) - Screenshot API: send a URL with one GET request and get back a PNG, JPEG, WebP or PDF of the page, full page or a single element. Free plan of 100 screenshots a month, no card.
 
 ### 🛠 DEVELOPER TOOLS
 
@@ -351,6 +353,7 @@ This is a complete web development resource you need to build your next project.
 - [A Box of Tools](https://abox.tools/) - Free client-side file tools: format JSON, diff text, base64, hashes, image to a data URI, PNG or SVG to a multi-size `.ico`, and compress an image to an exact KB budget. Open source, no signup, nothing sent to a server.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, and a merge queue that owns risk-based review. Open source, on npm.
 - [Online Mini Tools](https://onlineminitools.com) - Free browser-based utilities catalog for developers: JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. No account needed, most tools run client-side.
+- [FaviconDL](https://favicondl.com/) - Download the favicons a website already publishes (ICO, PNG, SVG, Apple touch icons) at their original sizes, in bulk or through a free JSON API that needs no key. No signup.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
@@ -394,6 +397,7 @@ This is a complete web development resource you need to build your next project.
 - [Tiny Helpers](https://tiny-helpers.dev) - A collection of free single-purpose online tools for web developers.
 - [Free for Developers](https://free-for.dev#/) - This is a list of software and other offerings that have free tiers for developers.
 - [Free Online Developer Tools](https://free-online.dev) - A comprehensive collection of free, lightning-fast, and secure client-side tools for developers, to format JSON, beautify SQL, or decode Base64 strings.
+- [Fomrix](https://fomrix.com/glb-viewer) - Free browser-based GLB preview for checking geometry, materials and textures before web delivery; local viewing needs no account.
 - [Nutilz Date Calculator](https://nutilz.com/date-calculator) - Free browser-based tool to find the difference between two dates or add/subtract days, weeks, months and years. No signup required.
 - [Nutilz QR Code Scanner](https://nutilz.com/qr-scanner) - Scan and decode QR codes from an uploaded image or live webcam, entirely in the browser — reads URLs, WiFi credentials, vCards and plain text. No upload, no sign-up.
 - [Dev Resources](https://devresourc.es) - Dev Resources has everything for your developer journey, all presented in curated lists.
