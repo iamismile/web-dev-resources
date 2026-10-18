@@ -172,6 +172,7 @@ This is a complete web development resource you need to build your next project.
 
 ### 📷 IMAGE RESOURCES
 
+- [PicCollages](https://piccollages.com/) - Free browser-based photo collage editor with grids, adjustable spacing and borders, text, stickers, and direct download.
 - [Unsplash](https://unsplash.com) - Free images and photos.
 - [Pexels](https://www.pexels.com) - Free stock photos.
 - [Pixabay](https://pixabay.com) - Free image or video.
