@@ -76,6 +76,7 @@ This is a complete web development resource you need to build your next project.
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
+- [ASCII Table](https://asciitable.co) - Searchable ASCII reference with decimal, hex, octal, binary, HTML entity, and escape codes for every character, plus Windows-1252, Latin-1, and code page 437. Free, no signup.
 
 ### 🎭 DESIGN TOOLS
 
