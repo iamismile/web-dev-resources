@@ -241,6 +241,7 @@ This is a complete web development resource you need to build your next project.
 
 - [web.dev](web.dev/measure) - See how well your website performs. Then, get tips to improve your user experience.
 - [Lighthouse Metrics](lighthouse-metrics.com) - Lighthouse Metrics provides easy insights for your site's performance.
+- [StackScan](https://www.stackscan.com) - See the technology stack of any website, or find every site running a given framework, CMS or library.
 
 ### 📄 TERMINALS FOR WINDOWS
 
