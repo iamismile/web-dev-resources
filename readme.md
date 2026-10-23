@@ -354,6 +354,7 @@ This is a complete web development resource you need to build your next project.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, and a merge queue that owns risk-based review. Open source, on npm.
 - [Online Mini Tools](https://onlineminitools.com) - Free browser-based utilities catalog for developers: JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. No account needed, most tools run client-side.
 - [FaviconDL](https://favicondl.com/) - Download the favicons a website already publishes (ICO, PNG, SVG, Apple touch icons) at their original sizes, in bulk or through a free JSON API that needs no key. No signup.
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - MIT-licensed Bash script that benchmarks a Linux server in about a minute (sysbench CPU and memory, fio 4k random read and write IOPS); asks before installing sysbench or fio and sends nothing anywhere unless you pass an upload token.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
