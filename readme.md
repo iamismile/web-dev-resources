@@ -105,6 +105,7 @@ This is a complete web development resource you need to build your next project.
 - [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS reference by MDN.
 - [CSS Reference](https://cssreference.io) - A free visual guide to CSS.
 - [CSS Layout](https://csslayout.io) - A collection of popular layouts and patterns made with CSS.
+- [PagePatch Hero Example](https://github.com/l-portet/pagepatch-free-hero) - Free AI-generated HTML/CSS hero for a fictional product, with before-and-after pages and five explained changes. No build step.
 - [Modern CSS Solutions](https://moderncss.dev) - A series examining modern CSS solutions to problems.
 - [CSS Diner](https://flukeout.github.io) - A fun game to help you learn and practice CSS selectors.
 - [Flexbox Froggy](https://flexboxfroggy.com) - A game that helps you to learn CSS Flex.
