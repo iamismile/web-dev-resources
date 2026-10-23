@@ -213,6 +213,7 @@ This is a complete web development resource you need to build your next project.
 - [Lorem Ipsum](https://loremipsum.io) - Lorem Ipsum generator.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Favicon generator
 - [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
+- [Zyff Favicon Generator](https://www.zyff.app/tools/favicon-generator) - Turns one image into a multi-size .ico, PNG and Apple touch icons, a maskable icon and a web manifest, plus the HTML tags to paste.
 - [App Icon Generator](https://launchyourapp.dev/tools/app-icon-generator) - App Icon Generator.
 - [Meta Tags](https://metatags.io) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
