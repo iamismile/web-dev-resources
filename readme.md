@@ -230,6 +230,7 @@ This is a complete web development resource you need to build your next project.
 - [Perflink | JS Benchmarks](https://perf.link) - JavaScript performance benchmarks you can share via URL.
 - [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 - [ReadyTools HTML and CSS Generator](https://www.readytools.co/code-hub/) - Effortlessly create HTML and CSS code with ReadyTools Code Hub. Enhance your website's appearance by copying generated buttons.
+- [Pic2Vector](https://pic2vector.com/) - Free PNG/JPG/WebP to SVG converter that runs locally in the browser (vtracer + WebAssembly). No upload, no signup, no watermark.
 
 ### 👓 ACCESSIBILITY
 
