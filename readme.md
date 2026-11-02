@@ -260,6 +260,7 @@ This is a complete web development resource you need to build your next project.
 - [InterviewBit](https://ide.new/c)
 - [CodiLink](https://codi.link)
 - [OneCompiler](https://onecompiler.com/)
+- [Koddo Python Playground](https://koddo.ru/playground/python) - Free Python editor and runner, no account required (Russian interface).
 
 ### ⚡ JAVASCRIPT
 
