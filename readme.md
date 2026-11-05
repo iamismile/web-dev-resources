@@ -76,6 +76,7 @@ This is a complete web development resource you need to build your next project.
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
+- [ASCII Table](https://asciitable.co) - Searchable ASCII reference with decimal, hex, octal, binary, HTML entity, and escape codes for every character, plus Windows-1252, Latin-1, and code page 437. Free, no signup.
 
 ### 🎭 DESIGN TOOLS
 
@@ -213,6 +214,7 @@ This is a complete web development resource you need to build your next project.
 - [Lorem Ipsum](https://loremipsum.io) - Lorem Ipsum generator.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Favicon generator
 - [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
+- [Zyff Favicon Generator](https://www.zyff.app/tools/favicon-generator) - Turns one image into a multi-size .ico, PNG and Apple touch icons, a maskable icon and a web manifest, plus the HTML tags to paste.
 - [App Icon Generator](https://launchyourapp.dev/tools/app-icon-generator) - App Icon Generator.
 - [Meta Tags](https://metatags.io) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
@@ -230,6 +232,7 @@ This is a complete web development resource you need to build your next project.
 - [Perflink | JS Benchmarks](https://perf.link) - JavaScript performance benchmarks you can share via URL.
 - [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 - [ReadyTools HTML and CSS Generator](https://www.readytools.co/code-hub/) - Effortlessly create HTML and CSS code with ReadyTools Code Hub. Enhance your website's appearance by copying generated buttons.
+- [Pic2Vector](https://pic2vector.com/) - Free PNG/JPG/WebP to SVG converter that runs locally in the browser (vtracer + WebAssembly). No upload, no signup, no watermark.
 
 ### 👓 ACCESSIBILITY
 
@@ -241,6 +244,7 @@ This is a complete web development resource you need to build your next project.
 
 - [web.dev](web.dev/measure) - See how well your website performs. Then, get tips to improve your user experience.
 - [Lighthouse Metrics](lighthouse-metrics.com) - Lighthouse Metrics provides easy insights for your site's performance.
+- [StackScan](https://www.stackscan.com) - See the technology stack of any website, or find every site running a given framework, CMS or library.
 
 ### 📄 TERMINALS FOR WINDOWS
 
@@ -260,6 +264,7 @@ This is a complete web development resource you need to build your next project.
 - [InterviewBit](https://ide.new/c)
 - [CodiLink](https://codi.link)
 - [OneCompiler](https://onecompiler.com/)
+- [Koddo Python Playground](https://koddo.ru/playground/python) - Free Python editor and runner, no account required (Russian interface).
 
 ### ⚡ JAVASCRIPT
 
@@ -355,6 +360,8 @@ This is a complete web development resource you need to build your next project.
 - [Online Mini Tools](https://onlineminitools.com) - Free browser-based utilities catalog for developers: JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. No account needed, most tools run client-side.
 - [FaviconDL](https://favicondl.com/) - Download the favicons a website already publishes (ICO, PNG, SVG, Apple touch icons) at their original sizes, in bulk or through a free JSON API that needs no key. No signup.
 - [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - MIT-licensed Bash script that benchmarks a Linux server in about a minute (sysbench CPU and memory, fio 4k random read and write IOPS); asks before installing sysbench or fio and sends nothing anywhere unless you pass an upload token.
+- [deed.page](https://deed.page) - Static hosting you drive over HTTP: one PUT publishes an HTML file or a folder to a permanent HTTPS subdomain, with no account or CLI. Free plan; also usable from AI coding agents through its MCP server.
+- [ToolKnit Text Diff](https://toolknit.com/tools/text-diff.html) - Compare two texts line by line in the browser, with unified or side-by-side views and counts of added, removed and unchanged lines.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
