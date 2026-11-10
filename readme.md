@@ -362,6 +362,7 @@ This is a complete web development resource you need to build your next project.
 - [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - MIT-licensed Bash script that benchmarks a Linux server in about a minute (sysbench CPU and memory, fio 4k random read and write IOPS); asks before installing sysbench or fio and sends nothing anywhere unless you pass an upload token.
 - [deed.page](https://deed.page) - Static hosting you drive over HTTP: one PUT publishes an HTML file or a folder to a permanent HTTPS subdomain, with no account or CLI. Free plan; also usable from AI coding agents through its MCP server.
 - [ToolKnit Text Diff](https://toolknit.com/tools/text-diff.html) - Compare two texts line by line in the browser, with unified or side-by-side views and counts of added, removed and unchanged lines.
+- [BrewPage](https://brewpage.app/) - Free hosting for HTML pages, static sites, Markdown, JSON and files: one POST, the web editor or its MCP server returns a shareable HTTPS link, with no signup or API key. Links last up to 30 days (90 with a free account).
 
 ### 📖 ONLINE LEARNING RESOURCES
 
