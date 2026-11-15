@@ -78,6 +78,8 @@ This is a complete web development resource you need to build your next project.
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - Free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
 - [ASCII Table](https://asciitable.co) - Searchable ASCII reference with decimal, hex, octal, binary, HTML entity, and escape codes for every character, plus Windows-1252, Latin-1, and code page 437. Free, no signup.
 
+- [WebCheatSheet](https://webcheatsheet.com) - Free web-development tutorials and reference guides for HTML, CSS, JavaScript, PHP and SQL.
+
 ### 🎭 DESIGN TOOLS
 
 - [Figma](https://www.figma.com) - Figma helps teams create, test, and ship better designs from start to finish.
