@@ -87,6 +87,7 @@ This is a complete web development resource you need to build your next project.
 - [Undesign](https://undesign.learn.uno) - Collection of free design tools and resources for makers, developers and designers.
 - [FlyonUI](https://flyonui.com/) - The Easiest Components Library For Tailwind CSS.
 - [Shadcn Studio](https://shadcnstudio.com/) - Preview your theme changes across different components and layouts.
+- [AppScreen](https://appscreen.pro) - Browser editor for App Store and Google Play screenshots: put app screens in iPhone or Android frames, add captions and backgrounds, and export at store sizes. Free, no sign-up, no watermark.
 
 ### 🌐 HOW THE WEB WORKS?
 
@@ -338,8 +339,11 @@ This is a complete web development resource you need to build your next project.
 - [Rapid API](https://rapidapi.com/hub) - Rapid api contains is one of the largest API tool suite which contains lots of free APIs along with their documnetation, a dedeicated section called [Rapid API learn](https://rapidapi.com/learn), which contains guides and tutorials about using and creating APIs.
 - [CurlShot](https://curlshot.com) - Screenshot API: send a URL with one GET request and get back a PNG, JPEG, WebP or PDF of the page, full page or a single element. Free plan of 100 screenshots a month, no card.
 - [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs) - REST API for YouTube video transcripts in any caption language, plus YouTube search, channel and playlist data. Free credits on sign-up.
+- [Datacircle](https://api.datacircle.dev/v1) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 
 ### 🛠 DEVELOPER TOOLS
+
+- [BestJSON](https://bestjson.com/) - Free browser-based JSON formatting, validation and comparison without signup or input upload; strict formatting preserves original numeric tokens.
 
 - [Markstream](https://markstream.simonhe.me/) - An open-source streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, and Angular packages plus Mermaid, KaTeX, code highlighting, and safe HTML support.
 - [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
@@ -363,6 +367,7 @@ This is a complete web development resource you need to build your next project.
 - [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - MIT-licensed Bash script that benchmarks a Linux server in about a minute (sysbench CPU and memory, fio 4k random read and write IOPS); asks before installing sysbench or fio and sends nothing anywhere unless you pass an upload token.
 - [deed.page](https://deed.page) - Static hosting you drive over HTTP: one PUT publishes an HTML file or a folder to a permanent HTTPS subdomain, with no account or CLI. Free plan; also usable from AI coding agents through its MCP server.
 - [ToolKnit Text Diff](https://toolknit.com/tools/text-diff.html) - Compare two texts line by line in the browser, with unified or side-by-side views and counts of added, removed and unchanged lines.
+- [BrewPage](https://brewpage.app/) - Free hosting for HTML pages, static sites, Markdown, JSON and files: one POST, the web editor or its MCP server returns a shareable HTTPS link, with no signup or API key. Links last up to 30 days (90 with a free account).
 
 ### 📖 ONLINE LEARNING RESOURCES
 
