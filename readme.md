@@ -376,6 +376,7 @@ Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https:
 - [deed.page](https://deed.page) - Static hosting you drive over HTTP: one PUT publishes an HTML file or a folder to a permanent HTTPS subdomain, with no account or CLI. Free plan; also usable from AI coding agents through its MCP server.
 - [ToolKnit Text Diff](https://toolknit.com/tools/text-diff.html) - Compare two texts line by line in the browser, with unified or side-by-side views and counts of added, removed and unchanged lines.
 - [BrewPage](https://brewpage.app/) - Free hosting for HTML pages, static sites, Markdown, JSON and files: one POST, the web editor or its MCP server returns a shareable HTTPS link, with no signup or API key. Links last up to 30 days (90 with a free account).
+- [icodelab Code Formatter and Minifier](https://icodelab.dev/en/tools/format-minify) - Format, minify and validate JSON, JavaScript, CSS, HTML, XML, PHP, YAML and Markdown in the browser with Prettier, with the exact line and column of a syntax error. Free, no signup, code is never sent to a server.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
