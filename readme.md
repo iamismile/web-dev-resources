@@ -1,21 +1,26 @@
 <div align="center">
-  <div>
-    <img width="500" src="media/logo.svg" alt="Web Dev Resources">
-  </div>
-  </br>
-  <h6>Web Development Resources You Ever Need</h6>
-  <p>
-    <span style="font-weight: bold"><a href="https://github.com/iamismile">Ismile Hossain</a></span>
-    </br>
-    <sub>Follow me on <a href="https://twitter.com/whoisismile">Twitter</a>, <a href="https://www.linkedin.com/in/iamismile/">LinkedIn</a>.</sub>
-  </p>
+
+<img width="520" src="media/logo.svg" alt="Web Dev Resources logo">
+
+# Web Dev Resources
+
+**A curated, community-driven collection of web development resources you can use to learn, build, and ship faster.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#contributing)
+[![GitHub stars](https://img.shields.io/github/stars/iamismile/web-dev-resources?style=social)](https://github.com/iamismile/web-dev-resources)
+
+Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https://twitter.com/whoisismile) · [LinkedIn](https://www.linkedin.com/in/iamismile/)
+
 </div>
 
 ---
 
-This is a complete web development resource you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.
+## About
 
----
+**Web Dev Resources** is an open-source list of high-quality tools, docs, courses, and references for modern web development. Whether you are starting out or looking for a specific tool, you will find links organized by topic.
+
+> Tip: Use your browser’s search (Ctrl/Cmd+F) to quickly find what you need.
 
 ## Contents
 
@@ -24,7 +29,7 @@ This is a complete web development resource you need to build your next project.
 - [Design Tools](#-design-tools)
 - [How the WEB works?](#-how-the-web-works)
 - [HTML and CSS](#-html-and-css)
-- [Front End Challenges or Skills](#-front-end-challenges-or-skills)
+- [Front End Challenges or Skills](#front-end-challenges-or-skills)
 - [Fonts and Typography](#-fonts-and-typography)
 - [Colors and Tools](#-colors-and-tools)
 - [Image Resources](#-image-resources)
@@ -69,7 +74,7 @@ This is a complete web development resource you need to build your next project.
 - [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [CheatGrid](https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet?search=react) - Developer cheat sheets for web development, programming languages, DevOps, AI, and more.
 - [GitSheet](https://gitsheet.wtf) - A dead simple git cheatsheet.
-- [HTML5 Doctor](http://html5doctor.com/element-index/) - This is a quick reference of elements that are new or have been redefined in HTML5.
+- [HTML5 Doctor](https://html5doctor.com/element-index/) - A quick reference for elements that are new or redefined in HTML5.
 - [HTML5 Canvas Cheat Sheet ](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html) - HTML5 Canvas Cheat Sheet.
 - [Cheatography](https://cheatography.com/programming/) - Programming Cheat Sheets.
 - [CSS 3, Media Queries Cheat Sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/) - CSS 3, Media Queries Cheat Sheet.
@@ -136,7 +141,7 @@ This is a complete web development resource you need to build your next project.
 - [ReadyTools HTML Minifier](https://www.readytools.co/code-hub/html-minifier/) - Compress your HTML files for faster loading times and better performance.
 - [HTMLrev](https://htmlrev.com/) - HTMLrev provides free HTML templates for websites and landing pages.
 
-## 🖥 FRONT END CHALLENGES OR SKILLS
+## Front End Challenges or Skills
 
 - [CodePen](https://codepen.io) - Build, share, and learn JavaScript, CSS, and HTML with our online code editor
 - [Frontend Mentor](https://www.frontendmentor.io) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working on professional designs.
@@ -164,7 +169,7 @@ This is a complete web development resource you need to build your next project.
 - [Colors and Fonts](https://www.colorsandfonts.com) - Find colors and typography combinations ready to copy paste in one click.
 - [ColorSpace](https://mycolor.space) - Generate nice Color Palettes.
 - [CSS Gradient](https://cssgradient.io) - Free css gradient generator tool.
-- [uiGradients](uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers.
+- [uiGradients](https://uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers.
 - [Picular](https://picular.co) - The color of anything.
 - [Colorable](https://colorable.jxnblk.com) - Choose font colors based on your background color.
 - [Happy Hues](https://www.happyhues.co) - Curated colors in context.
@@ -183,7 +188,7 @@ This is a complete web development resource you need to build your next project.
 - [LOADING.IO](https://loading.io) - Free spinner for your projects.
 - [LottieFiles](https://lottiefiles.com) - LottieFiles is a collection of animations designed for Lottie - gone are the days of bugging your developer.
 - [removebg](https://www.remove.bg) - Remove Image Background.
-- [Remove Photo Data](removephotodata.com/) - Remove personal data from photos before sharing them on the internet.
+- [Remove Photo Data](https://removephotodata.com/) - Remove personal data from photos before sharing them on the internet.
 - [befunky](https://www.befunky.com) - BeFunky's all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
 - [JFIF to JPG](https://jfiftojpg.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome_list&utm_content=iamismile) - Convert JFIF images to JPG or PNG in the browser, no upload and no re-compression, with batch ZIP download.
 
@@ -207,7 +212,7 @@ This is a complete web development resource you need to build your next project.
 - [Tabler Icons](https://tablericons.com) - Fully customizable free SVG icons.
 - [icofont](https://icofont.com/icons) - 2100+ free icons to spice up your creative designs.
 - [Simple Icons](https://simpleicons.org) - 1463 Free SVG icons for popular brands.
-- [Get Emoji](http://getemoji.com) - ✂️ Copy and 📋 Paste Emoji 👍.
+- [Get Emoji](https://getemoji.com) - Copy and paste emojis quickly.
 - [Ikonate](https://ikonate.com) - Customizable icons pack.
 - [useAnimations](https://useanimations.com) - Free animated icons.
 - [3dicons](https://www.3dicons.com/) - A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
@@ -246,8 +251,8 @@ This is a complete web development resource you need to build your next project.
 
 ### 📉 SITE ANALYZERS
 
-- [web.dev](web.dev/measure) - See how well your website performs. Then, get tips to improve your user experience.
-- [Lighthouse Metrics](lighthouse-metrics.com) - Lighthouse Metrics provides easy insights for your site's performance.
+- [web.dev](https://web.dev/measure/) - See how your website performs and get actionable tips to improve the user experience.
+- [Lighthouse Metrics](https://lighthouse-metrics.com) - Get quick, easy-to-read insights into your site’s performance using Lighthouse.
 - [StackScan](https://www.stackscan.com) - See the technology stack of any website, or find every site running a given framework, CMS or library.
 
 ### 📄 TERMINALS FOR WINDOWS
@@ -282,7 +287,7 @@ This is a complete web development resource you need to build your next project.
 - [JavaScript Reference By MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [JavaScript Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Learn important concepts in JavaScript such as operators, loops, functions, OOPs, and much more.
-- [DOM Manipulation Reference](http://youmightnotneedjquery.com)
+- [You Might Not Need jQuery](https://youmightnotneedjquery.com) - Common DOM and AJAX patterns in vanilla JavaScript.
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [RegexOne](https://regexone.com) - Learn Regular Expressions with simple, interactive exercises.
 - [Scaler](https://www.scaler.com/topics/javascript/) - Best Free Resources to learn JavaScript by top geeks.
@@ -293,11 +298,11 @@ This is a complete web development resource you need to build your next project.
 ### ⚡ NODEJS
 
 - [Node.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - Node.js Crash Course Tutorial by Net Ninja.
-- [Mixu's Node book](http://book.mixu.net/node/index.html) - A book about using Node.js.
+- [Mixu’s Node book](https://book.mixu.net/node/) - A book about using Node.js.
 - [Node JS](https://nodejs.dev/learn) - Node.js original documentation.
 - [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html) - 30 days of node, a node.js tutorial series.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Huge list of best practices for building node apps. Important for big projects.
-- [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices a0nd guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+- [The Node Way](https://thenodeway.io) - Principles and best practices for writing maintainable Node.js code.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node)
 - [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources.
 - [Express.js Security Tips](https://www.freecodecamp.org/news/express-js-security-tips/) - How You Can Save and Secure Your App.
@@ -321,9 +326,9 @@ This is a complete web development resource you need to build your next project.
 
 ### ⚡ REACT
 
-- [React](https://reactjs.org) - Official site documentations, tutorial.
+- [React](https://react.dev) - Official React documentation and tutorials.
 - [Codecademy](https://www.codecademy.com/learn/react-101) - Free React course of Codecademy.
-- [freeCodeCamp](https://www.freecodecamp.org/learn) - Free web development resourse, where you can also learn react.
+- [freeCodeCamp](https://www.freecodecamp.org/learn) - Free web development courses, including React.
 - [React Tutorial](https://www.youtube.com/watch?v=iZhV0bILFb0) - React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks by Coding Addict.
 - [React Beach Resort](https://www.youtube.com/watch?v=l0JbuMVXaTs) - React Beach Resort project by Coding Addict.
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -338,8 +343,8 @@ This is a complete web development resource you need to build your next project.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free to use fake Online REST API for testing and prototyping.
 - [OpenWeather](https://openweathermap.org/guide) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts.
 - [SWAPI](https://swapi.dev) - The Star Wars API.
-- [Quotes REST API](http://quotes.rest) - They Said So has more than 1 million+ quotes in the database, the largest such database in the world. And Quotes API gives easy way to access the data.
-- [Rapid API](https://rapidapi.com/hub) - Rapid api contains is one of the largest API tool suite which contains lots of free APIs along with their documnetation, a dedeicated section called [Rapid API learn](https://rapidapi.com/learn), which contains guides and tutorials about using and creating APIs.
+- [Quotes REST API](https://quotes.rest/) - Access a large quotes database via a simple REST API.
+- [RapidAPI](https://rapidapi.com/hub) - One of the largest API hubs with many free APIs, documentation, and learning resources via [RapidAPI Learn](https://rapidapi.com/learn).
 - [CurlShot](https://curlshot.com) - Screenshot API: send a URL with one GET request and get back a PNG, JPEG, WebP or PDF of the page, full page or a single element. Free plan of 100 screenshots a month, no card.
 - [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs) - REST API for YouTube video transcripts in any caption language, plus YouTube search, channel and playlist data. Free credits on sign-up.
 - [Datacircle](https://api.datacircle.dev/v1) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
@@ -374,8 +379,8 @@ This is a complete web development resource you need to build your next project.
 
 ### 📖 ONLINE LEARNING RESOURCES
 
-- [freeCodeCamp](https://www.w3schools.com) - Learn to code at home. Build projects. Earn certifications.
-- [w3schools](https://www.w3schools.com) - The world's largest Web Developer site. Tutorials references, examples, exercies, certificates.
+- [freeCodeCamp](https://www.freecodecamp.org/learn) - Learn to code for free. Build projects and earn certifications.
+- [W3Schools](https://www.w3schools.com) - Tutorials, references, examples, and exercises for web development.
 - [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. As leaders in online education and learning to code.
 - [Real Python](https://realpython.com) - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
 - [Study Tonight](https://www.studytonight.com) - Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests, Video tutorials.
@@ -385,7 +390,7 @@ This is a complete web development resource you need to build your next project.
 - [Command Line Tutorial](https://dev.to/iamismile/command-line-tutorial-58km) - Basic UNIX commands tutorial.
 - [Try Git](https://try.github.io) - An interactive series of challenges to learn about and experiment with Git.
 - [Scaler Topics](https://www.scaler.com/topics/) - Understand how programming works, Learn Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
-- [InterviewBit](https://www.interviewbit.com/practice/) - Level up your programming skills with our comprehensive guide containing interview questions, practice problems, coding challenges and alot more.
+- [InterviewBit](https://www.interviewbit.com/practice/) - Practice coding, interview questions, and challenges to level up your skills.
 - [Scaler Blogs](https://www.scaler.com/blog/) - Navigate the tech career with comprehensive roadmap articles, guiding the tech aspirants from the beginner to expert level in the ever-evolving tech industry.
 - [PerfectBugReport.io](https://www.perfectbugreport.io/) - A simple checklist of the essential items to include in bug reports.
 
@@ -425,7 +430,7 @@ This is a complete web development resource you need to build your next project.
 
 - [DEV](https://dev.to) - A constructive and inclusive social network. Open source and radically transparent.
 - [Medium](https://medium.com) - Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
-- [Hacker News](news.ycombinator.com) - Get the latest from Hacker News!
+- [Hacker News](https://news.ycombinator.com) - Get the latest tech news and discussions from Hacker News.
 - [Hacker Noon](https://hackernoon.com) - Hacker Noon reflects the technology industry with unfettered stories and opinions written by real tech professionals.
 - [freeCodeCamp News](https://www.freecodecamp.org/news/) - Free Code Camp community news.
 - [Smashing Magazine](https://www.smashingmagazine.com) - Smashing Magazine — for web designers and developers.
@@ -441,3 +446,27 @@ This is a complete web development resource you need to build your next project.
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+---
+
+## Contributing
+
+Contributions are welcome and appreciated. Please read [CONTRIBUTING guidelines](.github/CONTRIBUTING.md) and review our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+
+- Found a great resource? Open a pull request to add it.
+- Spot a broken link or outdated info? Open an issue or submit a fix.
+- Keep entries concise: name, link, and a short (1–2 sentence) description.
+
+If this project helps you, consider giving it a star.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+Made with care for the web dev community.
+
+</div>
