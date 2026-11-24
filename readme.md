@@ -95,6 +95,7 @@ Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https:
 - [FlyonUI](https://flyonui.com/) - The Easiest Components Library For Tailwind CSS.
 - [Shadcn Studio](https://shadcnstudio.com/) - Preview your theme changes across different components and layouts.
 - [AppScreen](https://appscreen.pro) - Browser editor for App Store and Google Play screenshots: put app screens in iPhone or Android frames, add captions and backgrounds, and export at store sizes. Free, no sign-up, no watermark.
+- [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - Free native design app built in Rust that opens and saves .fig files and ships a local MCP server, so a coding agent can inspect and edit the open file. Source-available (PolyForm Shield).
 
 ### 🌐 HOW THE WEB WORKS?
 
