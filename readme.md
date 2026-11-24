@@ -91,6 +91,7 @@ Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https:
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it's all right here, all in one place.
 - [Sketch](https://www.sketch.com) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world's largest teams.
 - [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
+- [Kite](https://kite.new) - Design tool your AI agents and your team share: Claude, Cursor or Codex draw editable layers through a hosted MCP server, and any frame copies out as HTML, React or Tailwind. Free plan available.
 - [Undesign](https://undesign.learn.uno) - Collection of free design tools and resources for makers, developers and designers.
 - [FlyonUI](https://flyonui.com/) - The Easiest Components Library For Tailwind CSS.
 - [Shadcn Studio](https://shadcnstudio.com/) - Preview your theme changes across different components and layouts.
