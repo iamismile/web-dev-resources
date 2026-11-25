@@ -348,6 +348,7 @@ Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https:
 - [CurlShot](https://curlshot.com) - Screenshot API: send a URL with one GET request and get back a PNG, JPEG, WebP or PDF of the page, full page or a single element. Free plan of 100 screenshots a month, no card.
 - [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs) - REST API for YouTube video transcripts in any caption language, plus YouTube search, channel and playlist data. Free credits on sign-up.
 - [Datacircle](https://api.datacircle.dev/v1) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
+- [YouTube Transcript API](https://apify.com/johnvc/youtubetranscripts) - API and hosted MCP tool that returns timestamped transcripts and subtitles for up to 100 YouTube videos or Shorts per run as JSON. Paid per video on Apify.
 
 ### 🛠 DEVELOPER TOOLS
 
