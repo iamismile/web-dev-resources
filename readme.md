@@ -242,6 +242,7 @@ Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https:
 - [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 - [ReadyTools HTML and CSS Generator](https://www.readytools.co/code-hub/) - Effortlessly create HTML and CSS code with ReadyTools Code Hub. Enhance your website's appearance by copying generated buttons.
 - [Pic2Vector](https://pic2vector.com/) - Free PNG/JPG/WebP to SVG converter that runs locally in the browser (vtracer + WebAssembly). No upload, no signup, no watermark.
+- [Mint 3D Model Embed Generator](https://mint.gg/3d-model-embed-generator) - Paste a GLB or glTF link, preview it live and copy ready-made `<model-viewer>` embed code for HTML, Shopify, WordPress, Wix or React. Free, no signup.
 
 ### 👓 ACCESSIBILITY
 
