@@ -395,6 +395,7 @@ Maintained by [Ismile Hossain](https://github.com/iamismile) · [Twitter](https:
 - [InterviewBit](https://www.interviewbit.com/practice/) - Practice coding, interview questions, and challenges to level up your skills.
 - [Scaler Blogs](https://www.scaler.com/blog/) - Navigate the tech career with comprehensive roadmap articles, guiding the tech aspirants from the beginner to expert level in the ever-evolving tech industry.
 - [PerfectBugReport.io](https://www.perfectbugreport.io/) - A simple checklist of the essential items to include in bug reports.
+- [Aethel](https://aethel.pro/practice) - Free interview practice for developer roles and levels, no account; each answer gets an instant check that quotes your own words.
 
 ### 🧑 RESUME
 
